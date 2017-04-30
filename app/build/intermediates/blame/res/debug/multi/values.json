@@ -1,0 +1,86 @@
+[
+    {
+        "outputFile": "C:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 56,
+                    "endOffset": 107
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 112,
+                    "endColumn": 45,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 45,
+                        "endOffset": 280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 52,
+                    "endOffset": 206
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 211,
+                    "endColumn": 50,
+                    "endOffset": 257
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 262,
+                    "endColumn": 60,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 57,
+                    "endOffset": 376
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]
