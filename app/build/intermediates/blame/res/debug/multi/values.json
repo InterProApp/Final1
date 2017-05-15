@@ -7,39 +7,129 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 56,
-                    "endOffset": 107
+                    "endLine": 261,
+                    "endColumn": 20,
+                    "endOffset": 6408
                 },
                 "from": {
-                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 112,
-                    "endColumn": 45,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\Num1.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 239,
-                        "endColumn": 45,
-                        "endOffset": 280
+                        "startOffset": 56,
+                        "endLine": 262,
+                        "endColumn": 20,
+                        "endOffset": 6409
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 158,
+                    "startOffset": 6413,
+                    "endLine": 520,
+                    "endColumn": 20,
+                    "endOffset": 12786
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\Num2.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 261,
+                        "endColumn": 20,
+                        "endOffset": 6429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 12791,
+                    "endLine": 780,
+                    "endColumn": 20,
+                    "endOffset": 19126
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\Num3.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 262,
+                        "endColumn": 20,
+                        "endOffset": 6391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 781,
+                    "startColumn": 4,
+                    "startOffset": 19131,
+                    "endLine": 783,
+                    "endColumn": 20,
+                    "endOffset": 19180
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\Num4.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 784,
+                    "startColumn": 4,
+                    "startOffset": 19185,
+                    "endLine": 1042,
+                    "endColumn": 19,
+                    "endOffset": 27759
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\TipoDos.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 261,
+                        "endColumn": 19,
+                        "endOffset": 8630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1043,
+                    "startColumn": 4,
+                    "startOffset": 27764,
+                    "endColumn": 56,
+                    "endOffset": 27816
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1044,
+                    "startColumn": 4,
+                    "startOffset": 27821,
+                    "endColumn": 45,
+                    "endOffset": 27862
+                },
+                "from": {
+                    "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1045,
+                    "startColumn": 4,
+                    "startOffset": 27867,
                     "endColumn": 52,
-                    "endOffset": 206
+                    "endOffset": 27915
                 },
                 "from": {
                     "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
@@ -47,11 +137,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 1046,
                     "startColumn": 4,
-                    "startOffset": 211,
+                    "startOffset": 27920,
                     "endColumn": 50,
-                    "endOffset": 257
+                    "endOffset": 27966
                 },
                 "from": {
                     "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
@@ -59,11 +149,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 1047,
                     "startColumn": 4,
-                    "startOffset": 262,
+                    "startOffset": 27971,
                     "endColumn": 60,
-                    "endOffset": 318
+                    "endOffset": 28027
                 },
                 "from": {
                     "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\strings.xml"
@@ -71,11 +161,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 1048,
                     "startColumn": 4,
-                    "startOffset": 323,
+                    "startOffset": 28032,
                     "endColumn": 57,
-                    "endOffset": 376
+                    "endOffset": 28085
                 },
                 "from": {
                     "file": "C:\\Android\\AndroidTouchedPixel1\\app\\src\\main\\res\\values\\styles.xml"

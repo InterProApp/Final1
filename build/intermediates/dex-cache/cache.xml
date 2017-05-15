@@ -2,22 +2,40 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\SDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\x\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_0f3fe8579cf32b5339732d40e053788fa636f9ec.jar" />
+        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_875e5cf2b6d0a7a63d72aa840db6ed5c52c039c0\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\Usuario\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Android\AndroidTouchedPixel1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="df308f3159a1dc00553542c6b04dc6fa97eda9d6">
+        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_97abb32c5d8132458a0cdfa7b40e98083adb3f1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\AndroidTouchedPixel1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0f4e53e2ed1e8e3979ddf8c8b97cd14d04331c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\x\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
-        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_491935b0ee6cfdbebc4ce38610bd2d65928b732d.jar" />
+        <dex dex="C:\Android\AndroidTouchedPixel1\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_c51d612bfdd0e1db77bfa3f62b9badfd74ec0cf7\classes.dex" />
     </item>
 
 </items>

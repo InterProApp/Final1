@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Fri May 12 10:12:35 ART 2017
+2.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+count=7
+0.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_main.xml
+5.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_action_search.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Android\\AndroidTouchedPixel1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+0.set=ANDROID_RESOURCE
